@@ -1,7 +1,7 @@
 public class demo{
 
 	public static void main(String[] args){
-		System.out.print("Hello\nWelcome to git\nfirst change in file\n");
+		System.out.print("hinWelcome to git\nfirst change in file\n");
 		System.out.print("new changes can be tracked now\n");
 		
 		}
